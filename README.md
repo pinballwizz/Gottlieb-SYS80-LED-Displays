@@ -4,7 +4,7 @@ Gottlieb System 80 Pinball 6 DIGIT LED Score Displays to replace older vacuum st
 PinballWiz.org 2026  
 
 
-[![Clip of Bench testing displays](https://img.youtube.com/vi/Togy7elLqTk/hqdefault.jpg)](https://www.youtube.com/watch?v=Togy7elLqTk)]
+[![Clip of Bench testing displays](https://img.youtube.com/vi/Togy7elLqTk/hqdefault.jpg)](https://www.youtube.com/watch?v=Togy7elLqTk)
 
 ![Model](sys80_display_int.jpg)  
 
